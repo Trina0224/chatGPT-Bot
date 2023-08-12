@@ -11,10 +11,8 @@ Google Cloud project(s)
 Create your own project(s) and include the two APIs. Generate key in JSON file format.  
 
 I # out the English version, female and male voices in the Python script.  
-The demo video is in TW Chinese:  
-https://drive.google.com/file/d/1xji62nu8VfcTysnGpbLpZpdZSdiMEm9a/view?usp=sharing  
-
-The speaking speed in the video is 1. The script in the repo is 1.3; you will feel better.  
+The demo video is in English, Japanese, and TW Chinese:  
+https://drive.google.com/file/d/1yaMadnF3EtJCUFp2lD_YzmloZnL1kxAr/view?usp=drive_link  
 
 Preinstall the libraries for your python environment:  
 $pip3 install google-cloud-texttospeech  
