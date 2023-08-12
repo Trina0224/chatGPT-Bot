@@ -16,6 +16,17 @@ https://drive.google.com/file/d/1xji62nu8VfcTysnGpbLpZpdZSdiMEm9a/view?usp=shari
 
 The speaking speed in the video is 1. The script in the repo is 1.3; you will feel better.  
 
+Preinstall the libraries for your python environment:  
+$pip3 install google-cloud-texttospeech  
+or  
+$pip3 install --upgrade google-cloud-texttospeech  
+
+$pip3 install google-cloud-speech  
+
+$pip3 install openai  
+
+
+
 
 ### Ref:  
 
