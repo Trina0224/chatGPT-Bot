@@ -8,9 +8,8 @@ Google Cloud project(s)
 <img width="707" alt="image" src="https://github.com/Trina0224/chatGPT-Bot/assets/5771864/a346fa47-ed5e-4717-ae5b-9dae86eb4404">
 
 (from console.cloud.google.com )  
-Create your own project(s) and include the two APIs. Generate key in JSON file format.  
+Create your own project(s) and include the two APIs. Generate key(s) in JSON file format.  
 
-I # out the English version, female and male voices in the Python script.  
 The demo video is in English, Japanese, and TW Chinese:  
 https://drive.google.com/file/d/1yaMadnF3EtJCUFp2lD_YzmloZnL1kxAr/view?usp=drive_link  
 
