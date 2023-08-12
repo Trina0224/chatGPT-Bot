@@ -14,5 +14,14 @@ I # out the English version, female and male voices in the Python script.
 The demo video is in TW Chinese:  
 https://drive.google.com/file/d/1xji62nu8VfcTysnGpbLpZpdZSdiMEm9a/view?usp=sharing  
 
-The speaking speed in the video is 1. The script in the repo is 1.3, you will feel better.  
+The speaking speed in the video is 1. The script in the repo is 1.3; you will feel better.  
+
+
+### Ref:  
+
+a demo code in AIY project:  
+/AIY-projects-python/src/examples/voice/voice_recorder.py  
+Jie Jenn's great video clips:  
+https://youtu.be/ZXnPMzmrmIY  
+https://youtu.be/izdDHVLc_Z0  
 
