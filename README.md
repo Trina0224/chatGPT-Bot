@@ -44,6 +44,10 @@
 3. Introduce a feature to email or text chat records.
 4. Experiment with hardware control-related functions.
 
+### Update:  
+1. You only need Male.py or Female.py. I will remove other .py files later.
+2. The VOSK queue seems cleared after a wakeword section.
+
 ### References:
 
 - A demo code in the AIY project can be found at: `/AIY-projects-python/src/examples/voice/voice_recorder.py`.
