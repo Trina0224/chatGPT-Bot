@@ -44,7 +44,7 @@
 3. Introduce a feature to email or text chat records.
 4. Experiment with hardware control-related functions.
 
-### Update:  
+### Update (08/31/2023)    
 1. You only need Male.py or Female.py. I will remove other .py files later.
 2. The VOSK queue seems cleared after a wakeword section.
 
