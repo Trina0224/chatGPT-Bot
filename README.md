@@ -56,7 +56,4 @@
     - [Watch Video 1](https://youtu.be/ZXnPMzmrmIY)
     - [Watch Video 2](https://youtu.be/izdDHVLc_Z0)
 
---- 
-
-This revised version is more structured and the grammar has been refined. Let me know if you have any further modifications in mind!
 
